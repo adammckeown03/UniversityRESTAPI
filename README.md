@@ -28,7 +28,19 @@ password: testing123456
 
 ## Running the app
 
-Clone the repo and run
+### Installing required libraries
+Clone the repo
+
+Install all required modules by running `pip install -r requirements.txt`
+
+
+
+
+
+### Running the server
+
+To run the server type
+
 ```shell
 python manage.py runserver
 ```
